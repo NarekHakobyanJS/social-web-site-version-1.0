@@ -1,0 +1,16 @@
+.login{
+    width: 550px;
+    margin: 80px auto;
+    border : 3px solid yellow;
+    padding: 25px;
+    text-align: center;
+}
+
+.login h1, h3 {
+    margin :  0;
+    padding: 0;
+}
+
+.error{
+    color : red;
+}

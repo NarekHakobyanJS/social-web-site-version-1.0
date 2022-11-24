@@ -1,0 +1,29 @@
+.content{
+    grid-area: c;
+    background: black;
+  }
+
+.post{
+  border : 1px solid gray;
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+  align-items: center;
+  width: 525px;
+  padding: 15px;
+}
+
+.post img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+}
+
+.post svg {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  cursor: pointer;
+  font-size: 28px;
+  cursor: pointer;
+}

@@ -1,0 +1,27 @@
+.page{
+    color : violet;
+    padding: 5px;
+    border: 1px solid violet;
+    margin: 5px;
+    cursor: pointer;
+}
+.paginator{
+    margin: 28px;
+}
+.selectedPage{
+    font-weight: 700;
+    color : gold;
+    padding: 5px;
+    border: 1px solid gold;
+    margin: 5px;
+}
+
+.paginator button{
+    padding: 10px;
+    background: transparent;
+    color : white;
+    border: 1px solid gold;
+    font-size: 14px;
+    font-weight: 700;
+    cursor: pointer;
+}

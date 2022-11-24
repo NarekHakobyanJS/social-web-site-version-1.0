@@ -1,0 +1,25 @@
+.nav{
+    background: gold;
+    color : black;
+    grid-area: n;
+    width: 250px;
+  }
+.navlink{
+  border-bottom: 1px solid black;
+  padding: 15px 0;
+  text-align: center;
+}
+
+.navlink a{
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 19px;
+}
+
+.active{
+  color : red;
+}
+
+.delActive {
+  color : black;
+}

@@ -1,0 +1,14 @@
+.content{
+    grid-area: c;
+    background: black;
+  }
+.errors{
+  color : red;
+}
+
+.err{
+  border : 3px solid red;
+}
+.noerr{
+  border : none;
+}

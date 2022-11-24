@@ -1,0 +1,15 @@
+.prof{
+    margin: 0 50px;
+}
+
+.contact{
+    margin-left: 25px;
+}
+
+.err{
+    border: 1px solid red;
+}
+
+.noerr{
+    border : none;
+}

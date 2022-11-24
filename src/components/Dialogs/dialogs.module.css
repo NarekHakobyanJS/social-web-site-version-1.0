@@ -1,0 +1,22 @@
+.dialogs{
+    display: flex;
+    align-items: center;
+    padding: 15px;
+}
+.dialogsItem{
+    margin-right: 48px;
+}
+.dialog a{
+    color : red;
+}
+
+.errors{
+    color : red;
+}
+
+.err{
+    border : 3px solid red;
+  }
+  .noerr{
+    border : none;
+  }
